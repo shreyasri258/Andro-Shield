@@ -157,7 +157,7 @@ I have listed these resources which I found helpful and also included a few of m
 
 ## Demo Video
 
-<video src="https://user-images.githubusercontent.com/72015821/204139131-dd81d44d-0a5e-4c20-b4dd-e6eca5bcd430.mp4"></video>
+<video src="https://github.com/shreyasri258/Andro-Shield/blob/main/images/demo.mp4.mp4"></video>
 </div>
 
 
