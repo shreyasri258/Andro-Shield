@@ -53,9 +53,9 @@ There are several types of malwares like:
 
 This project helps the users as a defense system that works to detect malware samples before they have a chance to infect a vivtim's mobile.
 
-Flask API:  https://github.com/naveenvarma600/MalwareAPK
+Flask API: https://github.com/shreyasri258/malware-apk
 
-Keras Model: https://github.com/naveenvarma600/DL-model-for-Malicious-APK
+Keras Model: https://github.com/shreyasri258/DL-model-for-Malicious-APK
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -82,14 +82,14 @@ This section lists the major frameworks/libraries used to bootstrap this project
 
 _Below are the instructions on how to run the app._
 
-1. Clone the mentioned repo which consists of Flask API. (https://github.com/naveenvarma600/MalwareAPK)
+1. Clone the mentioned repo which consists of Flask API. (https://github.com/shreyasri258/malware-apk)
    ```sh
-   git clone https://github.com/naveenvarma600/MalwareAPK
+   git clone https://github.com/shreyasri258/malware-apk
    ```
 2. Host the Flask API on heroku or any other cloud service
 3. Clone the current repository and then do the changes accordingly as mentioned below
    ```sh
-   git clone https://github.com/naveenvarma600/AndroShield.git
+   git clone https://github.com/shreyasri258/Andro-Shield.git
    ```
 4. In the   Malicious_android_app\lib\start_screen.dart file   , replace your hosted FLASK API url.
    ```sh
@@ -116,9 +116,9 @@ Always make sure to remove unnecessary dependencies.
 
 ## Contact
 
-Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/naveenvarma600/) - naveenvarma600@gmail.com
+Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/shreya-sri-a83a20205/) - shreyakerti@gmail.com
 
-Project Link: [https://github.com/naveenvarma600/AndroShield](https://github.com/naveenvarma600/AndroShield)
+Project Link: [https://github.com/shreyasri258/Andro-Shield](https://github.com/shreyasri258/Andro-Shield)
 
 
 
