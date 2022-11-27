@@ -3,7 +3,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/android_logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/shreyasri258/Andro-Shield/blob/main/images/images/android_logo.png?raw=true"
+ alt="Logo" width="80" height="80">
+
   </a>
 
   <h3 align="center">Andro-Shield</h3>
@@ -116,7 +118,7 @@ Always make sure to remove unnecessary dependencies.
 
 ## Contact
 
-Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/shreya-sri-a83a20205/) - shreyakerti@gmail.com
+A Shreya Sri- [@LinkedIn](https://www.linkedin.com/in/shreya-sri-a83a20205/) - shreyakerti@gmail.com
 
 Project Link: [https://github.com/shreyasri258/Andro-Shield](https://github.com/shreyasri258/Andro-Shield)
 
@@ -157,7 +159,11 @@ I have listed these resources which I found helpful and also included a few of m
 
 ## Demo Video
 
-<video src="https://github.com/shreyasri258/Andro-Shield/blob/main/images/demo.mp4.mp4"></video>
+
+
+
+
+<video src="https://user-images.githubusercontent.com/84087589/204149602-5eb971c6-43ea-47fd-bcc9-d6540b668c6d.mp4"></video>
 </div>
 
 
